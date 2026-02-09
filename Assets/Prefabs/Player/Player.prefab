@@ -182,6 +182,46 @@ MonoBehaviour:
       m_Groups: 
       m_Action: Move
       m_Flags: 8
+    - m_Name: Arrows
+      m_Id: a1fb360f-8de3-4021-89d1-a045695f3e61
+      m_Path: 2DVector
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Move
+      m_Flags: 4
+    - m_Name: up
+      m_Id: ff6029b4-2063-4549-be8f-e5337baf4803
+      m_Path: <Keyboard>/upArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Move
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 5650662a-8f52-4e19-b4b7-1fc0706da4e5
+      m_Path: <Keyboard>/downArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Move
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 7ca259e5-908d-44d0-a0e3-9dc780bc8ffb
+      m_Path: <Keyboard>/leftArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Move
+      m_Flags: 8
+    - m_Name: right
+      m_Id: a69b55a6-9f10-4929-9121-4197ac6e9839
+      m_Path: <Keyboard>/rightArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Move
+      m_Flags: 8
     m_Flags: 0
   lookAction:
     m_Name: Look
@@ -290,7 +330,7 @@ PolygonCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.4375, y: 1.4375}
+    oldSize: {x: 1.4375, y: 1.8125}
     newSize: {x: 1.4375, y: 1.4375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
