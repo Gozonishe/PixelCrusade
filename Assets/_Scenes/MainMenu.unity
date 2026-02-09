@@ -504,7 +504,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2340564595809866820, guid: a120776fd34db234e9d76886fc9bef90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1044,7 +1044,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2340564595809866820, guid: a120776fd34db234e9d76886fc9bef90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1416,7 +1416,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3936081892801357236, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -20
+      value: -23.600016
       objectReference: {fileID: 0}
     - target: {fileID: 3936081893185593785, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1476,7 +1476,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3936081894206324210, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 80
+      value: 76.4
       objectReference: {fileID: 0}
     - target: {fileID: 3936081894206324211, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_IsActive
@@ -1508,7 +1508,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3936081894393520869, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 30
+      value: 26.399984
       objectReference: {fileID: 0}
     - target: {fileID: 3936081894486422178, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_IsActive
@@ -1524,7 +1524,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3936081894588329344, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -75
+      value: -76.60001
       objectReference: {fileID: 0}
     - target: {fileID: 7495605595614509942, guid: 395330b6cfb66f246a4c7682cf797c5e, type: 3}
       propertyPath: m_IsActive
@@ -1767,7 +1767,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2340564595809866820, guid: a120776fd34db234e9d76886fc9bef90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1863,7 +1863,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2340564595809866820, guid: a120776fd34db234e9d76886fc9bef90, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2038,7 +2038,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1456793350837076035, guid: 17f0de962ac4c224dae188eee8b95991, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
